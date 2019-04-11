@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kaka-zhang-david.github.io/"/>
-  <updated>2018-11-07T12:48:36.281Z</updated>
+  <updated>2019-04-02T12:19:16.152Z</updated>
   <id>https://kaka-zhang-david.github.io/</id>
   
   <author>
@@ -17,282 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>experience-share-jenkins-on-armlinux</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-jenkins-on-armlinux/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-jenkins-on-armlinux/</id>
-    <published>2018-11-07T12:48:36.000Z</published>
-    <updated>2018-11-07T12:48:36.281Z</updated>
+    <title>[Myki卡] 绑定个人信息干嘛用</title>
+    <link href="https://kaka-zhang-david.github.io/2018/05/01/Myki%E5%8D%A1-%E7%BB%91%E5%AE%9A%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%B9%B2%E5%98%9B%E7%94%A8/"/>
+    <id>https://kaka-zhang-david.github.io/2018/05/01/Myki卡-绑定个人信息干嘛用/</id>
+    <published>2018-05-01T01:04:40.000Z</published>
+    <updated>2019-04-02T12:19:16.152Z</updated>
+    
+    <content type="html"><![CDATA[<p>刚来墨尔本没有车，通勤只能靠土澳的三大交通工具，tram、train、bus，Myki必然就是居家必备了。但是不住在city，每次充值就是个”事“儿，因为充值的地方并不多。所以为了避免忘了给Myki充值但又不为充值的事烦恼，所以今天分享一下在Myki官网上绑定了个人信息之后的两个骚操作。</p><p><strong>一：在线充值</strong> 现在都是手机APP搞定万物的时代了，Myki为啥就不上进呢</p><p>第零步，买一张Myki卡，一般city的便利店都有卖。我的是在国内咸鱼网上买的，别人来墨尔本玩买的不用了的。</p><p>第一步，在Myki官网绑定你的Myki卡，<a href="https://www.ptv.vic.gov.au/tickets/myki/register-your-myki/" target="_blank" rel="noopener">跳转链接请猛击</a><br>在页面上输入你的Name，email，住址信息等等，然后是Myki卡后面的15位数字，一路Next就完成了。</p><p>充值方法：</p><ol><li>Google Pay，如果你的手机带NFC功能并且带原生Google service 包，就可以直接给MyKi卡充值，就跟你去店里付款一样，把Myki卡贴在手机后面，然后就会弹出来充值界面。官方说明在此，<a href="https://www.ptv.vic.gov.au/tickets/myki/mobile-myki/" target="_blank" rel="noopener">请猛击</a></li><li>在Google Play store里面搜索 “Myki”,然后第一个出来的是MyPal，unoffial myki balance ….. 好吧，这个app是个华人哥们搞出来的，方便的一逼啊，下载安装。<a href="https://longzheng.github.io/mypal-ionic/" target="_blank" rel="noopener">官网在此</a><br>这个App可以充值，查询扣费记录。但是充值有个问题，不能实时到账，一逼需要大概30分钟的样子。这个不是app的问题，是落后的PTV系统的问题（PTV曰：老子就这调性，牛逼你来啊~~~），没有竞争就没有进步。</li></ol><p><strong>二: 丢卡之后可以挂失、锁卡，如果实在找不回来可以免费补卡</strong> 前几个月，某天出门丢了耳机和Myki卡，还好人没丢。回来一顿找卡，最后放弃了，上网PTV官网登录（注册的账户）挂失，然后登录几天PTV也没有收到有人捡到的信息，得，直接让PTV补了一张，2周后一张新卡出现在邮箱里。并且完全免费哟。</p><p>好了。分享完毕，有觉得有帮助的小伙伴帮忙分享转发一下吧，谢谢了！</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;刚来墨尔本没有车，通勤只能靠土澳的三大交通工具，tram、train、bus，Myki必然就是居家必备了。但是不住在city，每次充值就是个”事“儿，因为充值的地方并不多。所以为了避免忘了给Myki充值但又不为充值的事烦恼，所以今天分享一下在Myki官网上绑定了个人信息之后
+      
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>experience-share-a-private-git-repo</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-a-private-git-repo/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-a-private-git-repo/</id>
-    <published>2018-11-07T12:48:19.000Z</published>
-    <updated>2018-11-07T12:48:19.859Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-farmer-markets-in-melbourne</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-farmer-markets-in-melbourne/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-farmer-markets-in-melbourne/</id>
-    <published>2018-11-07T12:43:59.000Z</published>
-    <updated>2018-11-07T12:43:59.654Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-howto-rent-a-house</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-howto-rent-a-house/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-howto-rent-a-house/</id>
-    <published>2018-11-07T12:43:23.000Z</published>
-    <updated>2018-11-07T12:43:23.376Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-billing</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-billing/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-billing/</id>
-    <published>2018-11-07T12:42:26.000Z</published>
-    <updated>2018-11-07T12:42:26.605Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-discount-information-websites-in-australia</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-discount-information-websites-in-australia/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-discount-information-websites-in-australia/</id>
-    <published>2018-11-07T12:41:09.000Z</published>
-    <updated>2018-11-07T12:41:09.901Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-cheapest-way-send-pracle-from-china</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-cheapest-way-send-pracle-from-china/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-cheapest-way-send-pracle-from-china/</id>
-    <published>2018-11-07T12:38:55.000Z</published>
-    <updated>2018-11-07T12:38:55.543Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-choose-sim-card-for-gpsTracker</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-choose-sim-card-for-gpsTracker/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-choose-sim-card-for-gpsTracker/</id>
-    <published>2018-11-07T12:37:37.000Z</published>
-    <updated>2018-11-07T12:37:37.875Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-pgy-router</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-pgy-router/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-pgy-router/</id>
-    <published>2018-11-07T12:36:35.000Z</published>
-    <updated>2018-11-07T12:36:35.454Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-ikea-in-melbourne</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-ikea-in-melbourne/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-ikea-in-melbourne/</id>
-    <published>2018-11-07T12:35:11.000Z</published>
-    <updated>2018-11-07T12:35:11.685Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-costco-in-melbourne</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-costco-in-melbourne/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-costco-in-melbourne/</id>
-    <published>2018-11-07T12:34:45.000Z</published>
-    <updated>2018-11-07T12:34:45.727Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-preston-market</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-preston-market/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-preston-market/</id>
-    <published>2018-11-07T12:34:12.000Z</published>
-    <updated>2018-11-07T12:34:12.972Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-a-car-accident</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-a-car-accident/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-a-car-accident/</id>
-    <published>2018-11-07T12:32:49.000Z</published>
-    <updated>2018-11-07T12:32:49.214Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-i-lost-myki-and-replaced</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-i-lost-myki-and-replaced/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-i-lost-myki-and-replaced/</id>
-    <published>2018-11-07T12:31:54.000Z</published>
-    <updated>2018-11-07T12:31:54.513Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-rmit-pickup-service</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-rmit-pickup-service/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-rmit-pickup-service/</id>
-    <published>2018-11-07T12:30:45.000Z</published>
-    <updated>2018-11-07T12:30:45.299Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-how-to-buy-a-sim-card-in-china-before-get-australia</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-how-to-buy-a-sim-card-in-china-before-get-australia/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-how-to-buy-a-sim-card-in-china-before-get-australia/</id>
-    <published>2018-11-07T12:27:46.000Z</published>
-    <updated>2018-11-07T12:27:46.927Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-how-to-buy-a-sim-card</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-how-to-buy-a-sim-card/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-how-to-buy-a-sim-card/</id>
-    <published>2018-11-07T12:27:18.000Z</published>
-    <updated>2018-11-07T12:27:18.280Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-cheapest-data-sim-card-in-australia</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-cheapest-data-sim-card-in-australia/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-cheapest-data-sim-card-in-australia/</id>
-    <published>2018-11-07T12:26:10.000Z</published>
-    <updated>2018-11-07T12:26:10.732Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-free-wifi-in-melbourne</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-free-wifi-in-melbourne/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-free-wifi-in-melbourne/</id>
-    <published>2018-11-07T12:25:40.000Z</published>
-    <updated>2018-11-07T12:25:40.273Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>experience-share-used-goods</title>
-    <link href="https://kaka-zhang-david.github.io/2018/11/07/experience-share-used-goods/"/>
-    <id>https://kaka-zhang-david.github.io/2018/11/07/experience-share-used-goods/</id>
-    <published>2018-11-07T12:23:16.000Z</published>
-    <updated>2018-11-07T12:23:16.986Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="Myki" scheme="https://kaka-zhang-david.github.io/tags/Myki/"/>
     
   </entry>
   
